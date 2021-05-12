@@ -10,6 +10,7 @@ To run the code please compile the **"classify.m"** file which loads the precomp
 # Features Extraction
 
 This project extracts feature matrix to train support vector machine. The feature used to represent the audio bag are given below:
+
 (1) **Spectral Roll-Off**
 
 (2) **energy**
